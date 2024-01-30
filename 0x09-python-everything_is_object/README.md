@@ -3,7 +3,7 @@ Python - Everything is object
 ![Alt text](image.png)
 
 
-Learning Objectives
+Learning Objective
 
 General
 		
