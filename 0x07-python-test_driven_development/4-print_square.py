@@ -11,7 +11,7 @@ def print_square(size):
     Raises:
         TypeError: If size is not an integer.
         ValueError: If size is < 0 or a float
-    
+
     Returns:
     None. Prints the square to the console.
     """
