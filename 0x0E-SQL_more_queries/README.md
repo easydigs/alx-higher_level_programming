@@ -13,3 +13,6 @@ General
 - What are JOIN and UNION
 
 
+![sql](image.png)
+
+
