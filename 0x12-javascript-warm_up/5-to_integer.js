@@ -1,5 +1,5 @@
 #!/usr/bin/node
-// script that prints My number: 
+// script that prints My number:
 
 const arg = parseInt(process.argv[2], 10);
 
