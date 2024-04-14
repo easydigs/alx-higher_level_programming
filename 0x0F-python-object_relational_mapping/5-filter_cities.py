@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""  
+"""
 script lists all cities of that state, from database hbtn_0e_4_usa
 takes 4 arguments: mysql username, mysql password, database name and state name
 """
