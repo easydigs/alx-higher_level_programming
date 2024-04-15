@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-""" prints the State object with the name passed as argument from the database
+"""
+script that lists all City objects from the database hbtn_0e_101_usa
+script takes 3 arguments: mysql username, mysql password and database name
 """
 import sys
 from relationship_state import Base, State
