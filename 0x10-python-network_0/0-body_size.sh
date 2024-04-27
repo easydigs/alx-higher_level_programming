@@ -1,3 +1,3 @@
 #!/bin/bash
-# Sends a request to the URL, and displays the size of the HTTP response header for a given URL.
-curl -s "$1" | wc -c
+# Get the size of the HTTP response header for a given URL.
+curl -sI "$1" | grep -i Content-Length | awk '{print $2}'
