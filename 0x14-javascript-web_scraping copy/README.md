@@ -1,1 +1,1 @@
-# Web scraping # To be updated
+# 0x14. JavaScript - Web scraping
