@@ -1,5 +1,5 @@
 #!/usr/bin/node
-// Star Wars
+// Star War
 
 const request = require('request');
 const url = 'https://swapi-api.alx-tools.com/api/films/' + process.argv[2];
